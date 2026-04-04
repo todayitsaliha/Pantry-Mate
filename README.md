@@ -153,13 +153,9 @@ It demonstrates both:
 <img width="1890" height="831" alt="image" src="https://github.com/user-attachments/assets/b143b019-b30f-4d8e-b3ea-cea55aa4e33d" />
 <img width="1890" height="835" alt="image" src="https://github.com/user-attachments/assets/90ca6988-0710-4037-9e0a-f64a2ad6c881" />
 <img width="1894" height="824" alt="image" src="https://github.com/user-attachments/assets/fb48b715-f573-40af-862c-2c00e0ffa657" />
-<img width="928" height="411" alt="image" src="https://github.com/user-attachments/assets/b9a7f8e7-3da9-4410-8510-4a97d5719e53" />
-<img width="1071" height="470" alt="image" src="https://github.com/user-attachments/assets/0689b732-ee26-4e09-8f06-54a0c8aa6cdd" />
-
----
-
-⭐ **Star this repository to stay updated!**  
-🍽️ **Happy Cooking with PantryMate!**
+<img width="1896" height="709" alt="image" src="https://github.com/user-attachments/assets/8b25cfe7-5bc9-4739-be82-9dc52a7ba2ab" />
+<img width="1896" height="712" alt="image" src="https://github.com/user-attachments/assets/5d12eff9-6592-4f04-8ee8-3935a097f5a8" />
+<img width="1920" height="731" alt="image" src="https://github.com/user-attachments/assets/9a49a8ed-2ae2-4723-848f-89f8ac08a4d8" />
 
 ---
 
